@@ -21,6 +21,7 @@ The thesis contains well commented code and all the informations necessary to ge
 <p align="center"><b><i>Pure Pursuit Algorithm.<i><b></p>
 
 <br>
+<br>
 
 <p align="center">
   
@@ -32,6 +33,7 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <p align="center"><b><i>Pure Pursuit Algorithm modified to avoid the cutting of corners.<i><b></p>
 
+<br>
 <br>
 <br>
 
