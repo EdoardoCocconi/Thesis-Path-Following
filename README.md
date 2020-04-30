@@ -6,3 +6,7 @@ If you are just here to see some code click [here](Pure%20Pursuit%20Algorithm%20
 
 The thesis contains well commented code and all the informations necessary to get it up and running.
 
+<br>
+<br>
+
+> *©  2019  Edoardo  M.  Cocconi  All  Rights  Reserved*
