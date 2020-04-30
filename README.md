@@ -14,11 +14,13 @@ The thesis contains well commented code and all the informations necessary to ge
 
 ![Pure Pursuit Algorithm](Assets/PurePursuit.gif)
 
+<p>
+
 <br>
 
-***Pure Pursuit Algorithm.***
+<img width="460" height="300" src="http://www.fillmurray.com/460/300">
 
-<p>
+***Pure Pursuit Algorithm.***
 
 <br>
 
