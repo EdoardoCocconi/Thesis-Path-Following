@@ -1,7 +1,5 @@
 ![UNSW Banner](Assets/UNSW.png)
 
-<br>
-
 # UNSW Thesis: Pure Pursuit Algorithm & Autonomous Driving
 
 The pdf contains my UNSW thesis "Pure Pursuit Algorithm & Autonomous Driving".
