@@ -12,13 +12,13 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <p align="center">
   
-  <img width="460" height="300" src="Assets/PurePursuit.gif">
+  <src="Assets/PurePursuit.gif">
 
 <p>
 
 <br>
 
-<p align="center">This is a paragraph!</p>
+<p align="center">Pure Pursuit Algorithm</p>
 
 <br>
 
