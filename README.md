@@ -12,7 +12,7 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <br>
 
-Pure Pursuit Algorithm.
+***Pure Pursuit Algorithm.***
 
 <br>
 
@@ -20,7 +20,7 @@ Pure Pursuit Algorithm.
 
 <br>
 
-Pure Pursuit Algorithm modified to avoid the cutting of corners.
+***Pure Pursuit Algorithm modified to avoid the cutting of corners.***
 
 <br>
 <br>
