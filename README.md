@@ -18,15 +18,19 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <br>
 
-<p align="center"><b><i>Pure Pursuit Algorithm<i><b></p>
+<p align="center"><b><i>Pure Pursuit Algorithm.<i><b></p>
 
 <br>
 
-![Modified Pure Pursuit Algorithm](Assets/ModifiedPurePursuit.gif)
+<p align="center">
+  
+  <img width="504" src="Assets/ModifiedPurePursuit.gif">
+
+<p>
 
 <br>
 
-***Pure Pursuit Algorithm modified to avoid the cutting of corners.***
+<p align="center"><b><i>Pure Pursuit Algorithm modified to avoid the cutting of corners.<i><b></p>
 
 <br>
 <br>
