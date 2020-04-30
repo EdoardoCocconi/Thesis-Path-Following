@@ -1,4 +1,4 @@
-![UNSW Banner](Assets/UNSWuniversity.png)
+![UNSW Banner](Assets/UNSWbanner.png)
 
 # UNSW Thesis: Pure Pursuit Algorithm & Autonomous Driving
 
