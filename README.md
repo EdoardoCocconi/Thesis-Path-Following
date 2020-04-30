@@ -18,7 +18,7 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <br>
 
-<p align="center"><b>Pure Pursuit Algorithm<b></p>
+<p align="center"><b><i>Pure Pursuit Algorithm<i><b></p>
 
 <br>
 
