@@ -20,7 +20,7 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <p align="center">
   
-***Pure Pursuit Algorithm***
+  ***Pure Pursuit Algorithm***
 
 </p>
 
