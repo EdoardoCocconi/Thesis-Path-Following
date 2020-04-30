@@ -12,7 +12,7 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <p align="center">
 
-![Pure Pursuit Algorithm](Assets/PurePursuit.gif)
+  ![Pure Pursuit Algorithm](Assets/PurePursuit.gif)
 
 <p>
 
