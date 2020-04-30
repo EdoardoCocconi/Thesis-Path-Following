@@ -7,6 +7,22 @@ If you are just here to see some code click [here](Pure%20Pursuit%20Algorithm%20
 The thesis contains well commented code and all the informations necessary to get it up and running.
 
 <br>
+
+[Pure Pursuit Algorithm](Assets/PurePursuit.gif)
+
+<br>
+
+Pure Pursuit Algorithm.
+
+<br>
+
+[Modified Pure Pursuit Algorithm](Assets/ModifiedPurePursuit.gif)
+
+<br>
+
+Pure Pursuit Algorithm modified to avoid the cutting of corners.
+
+<br>
 <br>
 
 > *©  2019  Edoardo  M.  Cocconi  All  Rights  Reserved*
