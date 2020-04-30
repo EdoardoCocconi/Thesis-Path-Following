@@ -18,9 +18,11 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <br>
 
-<img width="460" height="300" src="http://www.fillmurray.com/460/300">
+<p align="center">
+  
+***Pure Pursuit Algorithm***
 
-***Pure Pursuit Algorithm.***
+</p>
 
 <br>
 
