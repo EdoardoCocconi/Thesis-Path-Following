@@ -4,7 +4,7 @@
 
 The pdf contains my UNSW thesis "Pure Pursuit Algorithm & Autonomous Driving".
 
-To find the MATLAB code click [here](Pure%20Pursuit%20Algorithm%20%26%20Autonomous%20Driving.pdf) and scroll down until you see the green writings.
+To find the MATLAB source code click [here](Pure%20Pursuit%20Algorithm%20%26%20Autonomous%20Driving.pdf) and scroll down until you see the green writings.
 
 The thesis contains well commented code and all the informations necessary to get it up and running.
 
