@@ -25,7 +25,7 @@ The thesis contains well commented code and all the informations necessary to ge
 
 <p align="center">
   
-  <img width="504" src="Assets/ModifiedPurePursuit.gif">
+  <img src="Assets/ModifiedPurePursuit.gif">
 
 <p>
 
