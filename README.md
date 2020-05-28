@@ -1,8 +1,8 @@
 ![UNSW Banner](Assets/UNSWbanner.png)
 
-# Thesis: Enhanced Pure Pursuit Algorithm & Autonomous Driving
+# Enhanced Pure Pursuit Algorithm & Autonomous Driving
 
-The pdf contains my UNSW thesis "Pure Pursuit Algorithm & Autonomous Driving".
+The pdf contains my UNSW thesis "Enhanced Pure Pursuit Algorithm & Autonomous Driving".
 
 To find the MATLAB source code click [here](Pure%20Pursuit%20Algorithm%20%26%20Autonomous%20Driving.pdf) and scroll down until you see the green writings.
 
